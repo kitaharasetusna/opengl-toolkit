@@ -5,13 +5,13 @@
 # compile CXX with /usr/bin/c++
 C_DEFINES = -DGLFW_DLL
 
-C_INCLUDES = 
+C_INCLUDES = -I/home/bear/Desktop/Github/opengl-toolkit/1_hellow_window/includes
 
 C_FLAGS = 
 
 CXX_DEFINES = -DGLFW_DLL
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/bear/Desktop/Github/opengl-toolkit/1_hellow_window/includes
 
 CXX_FLAGS = 
 

@@ -138,4 +138,5 @@ CMakeFiles/hello_window.dir/src/main.cpp.o: \
  /usr/include/c++/10/bits/istream.tcc \
  /home/bear/Desktop/Github/opengl-toolkit/1_hellow_window/src/glad.h \
  /home/bear/Desktop/Github/opengl-toolkit/1_hellow_window/src/khrplatform.h \
- /usr/include/GLFW/glfw3.h /usr/include/GL/gl.h
+ /usr/include/GLFW/glfw3.h /usr/include/GL/gl.h \
+ /home/bear/Desktop/Github/opengl-toolkit/1_hellow_window/includes/utils_glfw.h
