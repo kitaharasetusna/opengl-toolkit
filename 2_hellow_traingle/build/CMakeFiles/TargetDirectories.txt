@@ -1,0 +1,3 @@
+/home/bear/Desktop/Github/opengl-toolkit/2_hellow_traingle/build/CMakeFiles/hello_traingle.dir
+/home/bear/Desktop/Github/opengl-toolkit/2_hellow_traingle/build/CMakeFiles/edit_cache.dir
+/home/bear/Desktop/Github/opengl-toolkit/2_hellow_traingle/build/CMakeFiles/rebuild_cache.dir
