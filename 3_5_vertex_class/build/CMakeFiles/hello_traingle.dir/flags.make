@@ -5,13 +5,13 @@
 # compile CXX with /usr/bin/c++
 C_DEFINES = -DGLFW_DLL
 
-C_INCLUDES = -I/home/bear/Desktop/Github/opengl-toolkit/3_3_vertex_p_color/includes
+C_INCLUDES = -I/home/bear/Desktop/Github/opengl-toolkit/3_5_vertex_class/includes
 
 C_FLAGS = 
 
 CXX_DEFINES = -DGLFW_DLL
 
-CXX_INCLUDES = -I/home/bear/Desktop/Github/opengl-toolkit/3_3_vertex_p_color/includes
+CXX_INCLUDES = -I/home/bear/Desktop/Github/opengl-toolkit/3_5_vertex_class/includes
 
 CXX_FLAGS = 
 

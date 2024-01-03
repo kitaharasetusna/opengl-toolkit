@@ -1,4 +1,4 @@
-# Install script for directory: /home/bear/Desktop/Github/opengl-toolkit/3_3_vertex_p_color
+# Install script for directory: /home/bear/Desktop/Github/opengl-toolkit/3_5_vertex_class
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/bear/Desktop/Github/opengl-toolkit/3_3_vertex_p_color/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/bear/Desktop/Github/opengl-toolkit/3_5_vertex_class/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

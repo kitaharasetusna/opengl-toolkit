@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/bear/Desktop/Github/opengl-toolkit/3_3_vertex_p_color/src/glad.c" "CMakeFiles/hello_traingle.dir/src/glad.c.o" "gcc" "CMakeFiles/hello_traingle.dir/src/glad.c.o.d"
-  "/home/bear/Desktop/Github/opengl-toolkit/3_3_vertex_p_color/src/main.cpp" "CMakeFiles/hello_traingle.dir/src/main.cpp.o" "gcc" "CMakeFiles/hello_traingle.dir/src/main.cpp.o.d"
+  "/home/bear/Desktop/Github/opengl-toolkit/3_5_vertex_class/src/glad.c" "CMakeFiles/hello_traingle.dir/src/glad.c.o" "gcc" "CMakeFiles/hello_traingle.dir/src/glad.c.o.d"
+  "/home/bear/Desktop/Github/opengl-toolkit/3_5_vertex_class/src/main.cpp" "CMakeFiles/hello_traingle.dir/src/main.cpp.o" "gcc" "CMakeFiles/hello_traingle.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links.
