@@ -5,13 +5,13 @@
 # compile CXX with /usr/bin/c++
 C_DEFINES = -DGLFW_DLL
 
-C_INCLUDES = -I/home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader/includes
+C_INCLUDES = -I/home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors/includes
 
 C_FLAGS = 
 
 CXX_DEFINES = -DGLFW_DLL
 
-CXX_INCLUDES = -I/home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader/includes
+CXX_INCLUDES = -I/home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors/includes
 
 CXX_FLAGS = 
 

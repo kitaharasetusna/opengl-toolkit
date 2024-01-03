@@ -1,5 +1,5 @@
 CMakeFiles/hello_traingle.dir/src/main.cpp.o: \
- /home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader/src/main.cpp \
+ /home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/10/cmath \
  /usr/include/x86_64-linux-gnu/c++/10/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/10/bits/os_defines.h \
@@ -146,7 +146,7 @@ CMakeFiles/hello_traingle.dir/src/main.cpp.o: \
  /usr/include/c++/10/bits/basic_ios.tcc \
  /usr/include/c++/10/bits/ostream.tcc /usr/include/c++/10/istream \
  /usr/include/c++/10/bits/istream.tcc \
- /home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader/src/glad.h \
- /home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader/src/khrplatform.h \
+ /home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors/src/glad.h \
+ /home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors/src/khrplatform.h \
  /usr/include/GLFW/glfw3.h /usr/include/GL/gl.h \
- /home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader/includes/utils_glfw.h
+ /home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors/includes/utils_glfw.h

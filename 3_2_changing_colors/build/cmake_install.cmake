@@ -1,4 +1,4 @@
-# Install script for directory: /home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader
+# Install script for directory: /home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

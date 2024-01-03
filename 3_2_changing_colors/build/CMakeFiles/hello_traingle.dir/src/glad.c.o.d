@@ -1,5 +1,5 @@
 CMakeFiles/hello_traingle.dir/src/glad.c.o: \
- /home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader/src/glad.c \
+ /home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors/src/glad.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -48,8 +48,8 @@ CMakeFiles/hello_traingle.dir/src/glad.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h \
- /home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader/src/glad.h \
- /home/bear/Desktop/Github/opengl-toolkit/3_2_hellow_shader/src/khrplatform.h \
+ /home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors/src/glad.h \
+ /home/bear/Desktop/Github/opengl-toolkit/3_2_changing_colors/src/khrplatform.h \
  /usr/lib/gcc/x86_64-linux-gnu/10/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h /usr/include/dlfcn.h \
