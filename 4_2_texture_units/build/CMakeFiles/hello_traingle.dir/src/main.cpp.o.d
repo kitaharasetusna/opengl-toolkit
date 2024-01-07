@@ -1,5 +1,5 @@
 CMakeFiles/hello_traingle.dir/src/main.cpp.o: \
- /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/src/main.cpp \
+ /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/10/iostream \
  /usr/include/x86_64-linux-gnu/c++/10/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/10/bits/os_defines.h \
@@ -136,18 +136,18 @@ CMakeFiles/hello_traingle.dir/src/main.cpp.o: \
  /usr/include/c++/10/bits/basic_ios.tcc \
  /usr/include/c++/10/bits/ostream.tcc /usr/include/c++/10/istream \
  /usr/include/c++/10/bits/istream.tcc \
- /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/src/glad.h \
- /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/src/khrplatform.h \
+ /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/src/glad.h \
+ /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/src/khrplatform.h \
  /usr/include/GLFW/glfw3.h /usr/include/GL/gl.h \
- /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/includes/utils_glfw.h \
- /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/includes/shader_s.h \
- /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/includes/../src/glad.h \
+ /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/includes/utils_glfw.h \
+ /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/includes/shader_s.h \
+ /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/includes/../src/glad.h \
  /usr/include/c++/10/fstream /usr/include/c++/10/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/10/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/10/bits/c++io.h \
  /usr/include/c++/10/bits/fstream.tcc /usr/include/c++/10/sstream \
  /usr/include/c++/10/bits/sstream.tcc \
- /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/includes/stb_image.h \
+ /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/includes/stb_image.h \
  /usr/include/c++/10/stdlib.h /usr/include/string.h \
  /usr/include/strings.h /usr/lib/gcc/x86_64-linux-gnu/10/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/10/include/syslimits.h \

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture
+CMAKE_SOURCE_DIR = /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/build
+CMAKE_BINARY_DIR = /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hello_traingle.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/hello_traingle.dir/flags.make
 CMakeFiles/hello_traingle.dir/src/main.cpp.o: CMakeFiles/hello_traingle.dir/flags.make
 CMakeFiles/hello_traingle.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/hello_traingle.dir/src/main.cpp.o: CMakeFiles/hello_traingle.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello_traingle.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_traingle.dir/src/main.cpp.o -MF CMakeFiles/hello_traingle.dir/src/main.cpp.o.d -o CMakeFiles/hello_traingle.dir/src/main.cpp.o -c /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello_traingle.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_traingle.dir/src/main.cpp.o -MF CMakeFiles/hello_traingle.dir/src/main.cpp.o.d -o CMakeFiles/hello_traingle.dir/src/main.cpp.o -c /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/src/main.cpp
 
 CMakeFiles/hello_traingle.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_traingle.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/src/main.cpp > CMakeFiles/hello_traingle.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/src/main.cpp > CMakeFiles/hello_traingle.dir/src/main.cpp.i
 
 CMakeFiles/hello_traingle.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_traingle.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/src/main.cpp -o CMakeFiles/hello_traingle.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/src/main.cpp -o CMakeFiles/hello_traingle.dir/src/main.cpp.s
 
 CMakeFiles/hello_traingle.dir/src/glad.c.o: CMakeFiles/hello_traingle.dir/flags.make
 CMakeFiles/hello_traingle.dir/src/glad.c.o: ../src/glad.c
 CMakeFiles/hello_traingle.dir/src/glad.c.o: CMakeFiles/hello_traingle.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hello_traingle.dir/src/glad.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello_traingle.dir/src/glad.c.o -MF CMakeFiles/hello_traingle.dir/src/glad.c.o.d -o CMakeFiles/hello_traingle.dir/src/glad.c.o -c /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/src/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hello_traingle.dir/src/glad.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello_traingle.dir/src/glad.c.o -MF CMakeFiles/hello_traingle.dir/src/glad.c.o.d -o CMakeFiles/hello_traingle.dir/src/glad.c.o -c /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/src/glad.c
 
 CMakeFiles/hello_traingle.dir/src/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/hello_traingle.dir/src/glad.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/src/glad.c > CMakeFiles/hello_traingle.dir/src/glad.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/src/glad.c > CMakeFiles/hello_traingle.dir/src/glad.c.i
 
 CMakeFiles/hello_traingle.dir/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/hello_traingle.dir/src/glad.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/src/glad.c -o CMakeFiles/hello_traingle.dir/src/glad.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/src/glad.c -o CMakeFiles/hello_traingle.dir/src/glad.c.s
 
 # Object files for target hello_traingle
 hello_traingle_OBJECTS = \
@@ -110,7 +110,7 @@ hello_traingle: CMakeFiles/hello_traingle.dir/src/glad.c.o
 hello_traingle: CMakeFiles/hello_traingle.dir/build.make
 hello_traingle: /usr/lib/x86_64-linux-gnu/libglfw.so.3.2
 hello_traingle: CMakeFiles/hello_traingle.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hello_traingle"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hello_traingle"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hello_traingle.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -122,6 +122,6 @@ CMakeFiles/hello_traingle.dir/clean:
 .PHONY : CMakeFiles/hello_traingle.dir/clean
 
 CMakeFiles/hello_traingle.dir/depend:
-	cd /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/build /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/build /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/build/CMakeFiles/hello_traingle.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build/CMakeFiles/hello_traingle.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/hello_traingle.dir/depend
 

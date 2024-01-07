@@ -1,0 +1,3 @@
+/home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build/CMakeFiles/hello_traingle.dir
+/home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build/CMakeFiles/edit_cache.dir
+/home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build/CMakeFiles/rebuild_cache.dir

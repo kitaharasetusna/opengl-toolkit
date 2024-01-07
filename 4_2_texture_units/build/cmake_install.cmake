@@ -1,4 +1,4 @@
-# Install script for directory: /home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture
+# Install script for directory: /home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/bear/Desktop/Github/opengl-toolkit/4_1_hellow_texture/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/bear/Desktop/Github/opengl-toolkit/4_2_texture_units/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
