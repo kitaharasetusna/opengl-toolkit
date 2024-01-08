@@ -1,0 +1,3 @@
+/home/bear/Desktop/Github/opengl-toolkit/5_1_hellow_rotation/build/CMakeFiles/hello_traingle.dir
+/home/bear/Desktop/Github/opengl-toolkit/5_1_hellow_rotation/build/CMakeFiles/edit_cache.dir
+/home/bear/Desktop/Github/opengl-toolkit/5_1_hellow_rotation/build/CMakeFiles/rebuild_cache.dir
