@@ -1,0 +1,3 @@
+/home/bear/Desktop/Github/opengl-toolkit/5_3_rotate_3D/build/CMakeFiles/hello_traingle.dir
+/home/bear/Desktop/Github/opengl-toolkit/5_3_rotate_3D/build/CMakeFiles/edit_cache.dir
+/home/bear/Desktop/Github/opengl-toolkit/5_3_rotate_3D/build/CMakeFiles/rebuild_cache.dir
